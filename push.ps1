@@ -1,0 +1,3 @@
+echo Publishing package ...
+
+.\nuget.exe push jQuery-Validation-Unobtrusive.NuGet.5.2.3.nupkg

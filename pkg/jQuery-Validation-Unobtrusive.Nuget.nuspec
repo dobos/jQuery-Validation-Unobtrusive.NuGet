@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>jQuery-Validation-Unobtrusive.NuGet</id>
+    <version>5.2.3</version>
+    <authors>Microsoft</authors>
+    <owners></owners>
+    <licenseUrl>https://raw.githubusercontent.com/aspnet/jquery-validation-unobtrusive/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/aspnet/jquery-validation-unobtrusive</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Unobtrusive validation support library for jQuery and jQuery Validate</description>
+    <releaseNotes>Contains js source.</releaseNotes>
+    <copyright>Copyright (C) Microsoft Corporation. All rights reserved.</copyright>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
